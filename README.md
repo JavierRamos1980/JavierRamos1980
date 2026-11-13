@@ -6,8 +6,6 @@ San Juan, Argentina · 100% remoto
 Construyo sistemas de negocio de punta a punta: ERP, APIs, apps de campo y modernización de legacy.  
 Trabajo con un flujo **AI-native** (GitHub Copilot · Cursor · Claude Code · Antigravity): especificación → implementación asistida → revisión humana → producción.
 
-🌐 [javieralbertoramos.com](https://www.javieralbertoramos.com) · 💼 [LinkedIn](https://www.linkedin.com/in/javier-ramos)
-
 ---
 
 ## Qué hago
@@ -65,4 +63,4 @@ IA            Cursor · Claude Code · GitHub Copilot
 
 ### Contacto
 
-📧 jaramosd@hotmail.com | javieralbertoramos@gmail.com · 📱 +54 264 5016464 · 🌍 San Juan, Argentina (remoto)
+📧 Email: jaramosd@hotmail.com · 🌍 San Juan, Argentina (remoto)
