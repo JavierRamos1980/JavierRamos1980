@@ -15,7 +15,7 @@ Trabajo con un flujo **AI-native** (Cursor · Claude Code · GitHub Copilot): es
 | Área | Enfoque |
 |---|---|
 | **Sistemas empresariales** | .NET / C#, SQL Server (SP, triggers, jobs), SSIS, SOAP/REST |
-| **Modernización legacy** | Migración VB6 → C# / .NET 8–10, con continuidad operativa |
+| **Modernización legacy** | Sistemas legacy → C# / .NET 8–10, con continuidad operativa |
 | **Móvil** | Android nativo: Kotlin, Jetpack Compose, MVVM, Room, Hilt, offline-first |
 | **Web** | React, TypeScript, Node.js, Express, Prisma |
 | **Integraciones** | ARCA/AFIP (WSAA/WSFE), Tango ERP, JWT, APIs REST |
@@ -28,7 +28,7 @@ Trabajo con un flujo **AI-native** (Cursor · Claude Code · GitHub Copilot): es
 1. **Especificación primero** — problema, alcance, criterios de prueba y slices.
 2. **Contexto para agentes** — `AGENTS.md`, reglas y skills por proyecto.
 3. **Control humano** — el agente implementa un slice; yo compilo, pruebo y reviso el diff.
-4. **Legacy con IA** — análisis de VB6/SQL, mapeo de reglas y paridad funcional.
+4. **Legacy con IA** — análisis de código y SQL, mapeo de reglas y paridad funcional.
 
 > La IA acelera la ejecución. Las reglas de negocio, la seguridad y lo que llega a producción los defino y reviso yo.
 
@@ -37,7 +37,7 @@ Trabajo con un flujo **AI-native** (Cursor · Claude Code · GitHub Copilot): es
 ## Stack principal
 
 ```text
-Lenguajes     C# · T-SQL · Kotlin · PHP · TypeScript · VB6 (legacy)
+Lenguajes     C# · T-SQL · Kotlin · PHP · TypeScript
 .NET          .NET 8/10 · ASP.NET Web API · EF · Dapper · WinForms · WPF
 Android       Kotlin · Jetpack Compose · Room · Retrofit · Hilt · MVVM
 Web           React · Vite · Tailwind · Node.js · Express · Prisma
@@ -52,7 +52,7 @@ IA            Cursor · Claude Code · GitHub Copilot · n8n
 ## Experiencia (resumen)
 
 - **Practia Global / Sancor Seguros (TIME)** — 2021–actualidad  
-  SQL Server avanzado, ETL SSIS, SOAP/REST, migración VB6→C#, APIs Clean Architecture, Scrum, flujo AI-native.
+  SQL Server avanzado, ETL SSIS, SOAP/REST, modernización de sistemas legacy, APIs Clean Architecture, Scrum, flujo AI-native.
 
 - **Consultor independiente** — 2007–actualidad  
   ERP a medida, preventa Android offline-first, facturación electrónica ARCA, tableros sobre Tango, apps de campo y modernización de legacy.
