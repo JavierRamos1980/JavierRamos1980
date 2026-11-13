@@ -4,7 +4,7 @@
 San Juan, Argentina · 100% remoto
 
 Construyo sistemas de negocio de punta a punta: ERP, APIs, apps de campo y modernización de legacy.  
-Trabajo con un flujo **AI-native** (Cursor · Claude Code · GitHub Copilot): especificación → implementación asistida → revisión humana → producción.
+Trabajo con un flujo **AI-native** (GitHub Copilot · Cursor · Claude Code · Antigravity): especificación → implementación asistida → revisión humana → producción.
 
 🌐 [javieralbertoramos.com](https://www.javieralbertoramos.com) · 💼 [LinkedIn](https://www.linkedin.com/in/javier-ramos)
 
@@ -30,8 +30,6 @@ Trabajo con un flujo **AI-native** (Cursor · Claude Code · GitHub Copilot): es
 3. **Control humano** — el agente implementa un slice; yo compilo, pruebo y reviso el diff.
 4. **Legacy con IA** — análisis de código y SQL, mapeo de reglas y paridad funcional.
 
-> La IA acelera la ejecución. Las reglas de negocio, la seguridad y lo que llega a producción los defino y reviso yo.
-
 ---
 
 ## Stack principal
@@ -43,19 +41,19 @@ Android       Kotlin · Jetpack Compose · Room · Retrofit · Hilt · MVVM
 Web           React · Vite · Tailwind · Node.js · Express · Prisma
 Datos         SQL Server · MySQL · PostgreSQL · SQLite
 Integraciones REST · SOAP · JWT · SSIS · ARCA/AFIP · Tango ERP
-Herramientas  Git · GitLab · Azure DevOps · Docker · Jira · Scrum
-IA            Cursor · Claude Code · GitHub Copilot · n8n
+Herramientas  Git · GitLab · Azure DevOps · Jira · Scrum
+IA            Cursor · Claude Code · GitHub Copilot
 ```
 
 ---
 
 ## Experiencia (resumen)
 
-- **Practia Global / Sancor Seguros (TIME)** — 2021–actualidad  
+- **Practia Global / Sancor Seguros ** — 2021–actualidad  
   SQL Server avanzado, ETL SSIS, SOAP/REST, modernización de sistemas legacy, APIs Clean Architecture, Scrum, flujo AI-native.
 
 - **Consultor independiente** — 2007–actualidad  
-  ERP a medida, preventa Android offline-first, facturación electrónica ARCA, tableros sobre Tango, apps de campo y modernización de legacy.
+  ERP a medida, preventa Android offline-first, facturación electrónica ARCA, tableros sobre Tango, apps movil a medida para PyMES y modernización de legacy.
 
 ---
 
@@ -67,4 +65,4 @@ IA            Cursor · Claude Code · GitHub Copilot · n8n
 
 ### Contacto
 
-📧 jaramosd@hotmail.com · 📱 +54 264 5016464 · 🌍 San Juan, Argentina (remoto)
+📧 jaramosd@hotmail.com | javieralbertoramos@gmail.com · 📱 +54 264 5016464 · 🌍 San Juan, Argentina (remoto)
